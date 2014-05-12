@@ -1,0 +1,8 @@
+{
+  "name": "response-interceptor-rewriter",
+  "version": "0.0.1",
+  "description": "a response rewriter to transform illegal http response to legal one",
+  "main": "index.js",
+  "author": "Qi Liu",
+  "license": "ISC"
+}
