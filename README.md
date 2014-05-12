@@ -1,4 +1,4 @@
-response-rewriter
+response-interceptor-rewriter
 =================
 
 Many people are to respond everything with an array, like [0, 'success']  
